@@ -1,0 +1,13 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Community Discussions
+    url: https://github.com/pynthora/pynthora-community/discussions
+    about: Start a general discussion or ask questions in the Discussions tab
+  - name: 📚 Documentation
+    url: https://github.com/pynthora/pynthora-community#readme
+    about: Check the README for guidelines and how-to guides
+  - name: 🌐 pynthora Website
+    url: https://pynthora.com
+    about: Visit the official pynthora website
+
+
